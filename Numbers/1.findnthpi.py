@@ -1,4 +1,5 @@
 # coding=utf-8
+'''Gauss–Legendre algorithm is used to compute the digits of pi'''
 import math
 from decimal import *
 getcontext().prec = 10000
